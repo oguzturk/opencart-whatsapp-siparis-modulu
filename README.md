@@ -1,5 +1,4 @@
-# opencart-whatsapp-siparis-modulu
-OpenCart WhatsApp sipariş modülü
+# OpenCart WhatsApp Sipariş Modülü
 
 Detaylı kurulum anlatımı için aşağıdaki bağlantıyı inceleyin.
 
